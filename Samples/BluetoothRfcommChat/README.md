@@ -1,6 +1,6 @@
 <!---
   category: Communications
-  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=626688&clcid=0x409
+  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=626688
 --->
 
 # Bluetooth RFCOMM chat sample
@@ -32,7 +32,7 @@ To obtain information about Microsoft Visual Studio 2015 and the tools for devel
 
 [DataReaderWriter sample](../DataReaderWriter)
 
-[DeviceEnumeration sample](../DeviceEnumeration)
+[DeviceEnumeration sample](../DeviceEnumerationAndPairing)
 
 [StreamSocket sample](../StreamSocket)
 
