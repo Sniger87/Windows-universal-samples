@@ -31,11 +31,15 @@ The samples use Linked files in Visual Studio to reduce duplication of common fi
 
 **Reminder:** If you unzip individual samples, they will not build due to references to other portions of the ZIP file that were not unzipped. You must unzip the entire archive if you intend to build the samples.
 
-For more info about the programming models, platforms, languages, and APIs demonstrated in these samples, please refer to the guidance, tutorials, and reference topics provided in the Windows 10 documentation available in the [Windows Developer Center](https://dev.windows.com). These samples are provided as-is in order to indicate or demonstrate the functionality of the programming models and feature APIs for Windows.
+For more info about the programming models, platforms, languages, and APIs demonstrated in these samples, please refer to the guidance, tutorials, and reference topics provided in the Windows 10 documentation available in the [Windows Developer Center](http://go.microsoft.com/fwlink/?LinkID=532421). These samples are provided as-is in order to indicate or demonstrate the functionality of the programming models and feature APIs for Windows.
 
 ## Contributions
 
 These samples are direct from the feature teams and we welcome your input on issues and suggestions for new samples.  At this time we are not accepting new samples from the public, but check back here as we evolve our contribution model.
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
+or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## See also
 
@@ -392,6 +396,15 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  </tr>
 </table>
 
+### Holographic
+
+<table>
+ <tr>
+  <td><a href="Samples/HolographicSpatialMapping">Holographic spatial mapping</a></td>
+  <td><a href="Samples/HolographicTagAlong">Tag-along hologram</a></td>
+ </tr>
+</table>
+
 ### Identity, security, and encryption
 
 <table>
@@ -409,14 +422,14 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
   <td><a href="Samples/KeyCredentialManager">KeyCredentialManager</a></td>
   <td><a href="Samples/Personalization">Lock screen personalization</a></td>
   <td><a href="Samples/MicrosoftPassport">Microsoft Passport and Windows Hello</a></td>
-  <td><a href="Samples/SmartCard">Smart cards</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/SmartCard">Smart cards</a></td>
   <td><a href="Samples/UserInfo">User information</a></td>
   <td><a href="Samples/UserConsentVerifier">UserConsentVerifier</a></td>
-  <td><a href="Samples/WebAccountManagement">Web account management</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/WebAccountManagement">Web account management</a></td>
   <td><a href="Samples/WebAuthenticationBroker">WebAuthenticationBroker</a></td>
  </tr>
 </table>
@@ -428,6 +441,9 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
   <td><a href="Samples/AssociationLaunching">Association launching</a></td>
   <td><a href="Samples/BackgroundTask">Background task</a></td>
   <td><a href="Samples/ExtendedExecution">Extended execution</a></td>
+ </tr>
+ <tr>
+  <td><a href="Samples/BasicSuspension">Suspend and resume</a></td>
  </tr>
 </table>
 
